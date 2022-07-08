@@ -16,4 +16,14 @@ MonoBehaviour:
   m_GuidHigh: 10616350578011822240
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4742420768046631068
+      m_GuidHigh: 17752970883795548590
+    m_SerializedTextureGuid:
+      m_GuidLow: 4248254669840004482
+      m_GuidHigh: 12315121332949456346
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: AR Cover TARGET
+    m_Texture: {fileID: 0}
